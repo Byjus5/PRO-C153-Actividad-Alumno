@@ -1,4 +1,4 @@
-//Terrain Rotation
+//Rotación de terreno
 AFRAME.registerComponent("terrain-rotation-reader", {
   schema: {
     speedOfRotation: { type: "number", default: 0 }    
